@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dazhyar
-- 👀 I’m interested in everything code reated.
+- 👀 I’m interested in everything code related.
 - 🌱 I’m currently learning android development.
 - 💞️ I’m looking to collaborate on any pyhton data projects.
 - 📫 How to reach me ...
